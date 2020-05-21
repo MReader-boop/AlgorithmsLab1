@@ -1,0 +1,27 @@
+﻿  pch.cpp
+  RedBlackTreeTest.cpp
+C:\Users\klesovi\Desktop\RedBlackTree\RedBlackTreeTest\RedBlackTreeTest.cpp(20,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\klesovi\Desktop\RedBlackTree\RedBlackTreeTest\RedBlackTreeTest.cpp(33,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\klesovi\Desktop\RedBlackTree\RedBlackTree\List.h(65,41): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\klesovi\Desktop\RedBlackTree\RedBlackTree\List.h(64): message : во время компиляции функции-члена класс шаблон "T List<T>::at(size_t)"
+          with
+          [
+              T=int
+          ]
+C:\Users\klesovi\Desktop\RedBlackTree\RedBlackTreeTest\RedBlackTreeTest.cpp(21): message : выполняется компиляция ссылки на экземпляр шаблон функции "T List<T>::at(size_t)"
+          with
+          [
+              T=int
+          ]
+C:\Users\klesovi\Desktop\RedBlackTree\RedBlackTreeTest\RedBlackTreeTest.cpp(20): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<T>"
+          with
+          [
+              T=int
+          ]
+C:\Users\klesovi\Desktop\RedBlackTree\RedBlackTree\List.h(75,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\klesovi\Desktop\RedBlackTree\RedBlackTree\Map.h(405,40): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+C:\Users\klesovi\Desktop\RedBlackTree\RedBlackTree\Map.h(366): message : во время компиляции функции-члена класс шаблон "void Map<int,int>::delete_fix(Map<int,int>::Node *)"
+C:\Users\klesovi\Desktop\RedBlackTree\RedBlackTree\Map.h(162): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Map<int,int>::delete_fix(Map<int,int>::Node *)"
+C:\Users\klesovi\Desktop\RedBlackTree\RedBlackTreeTest\RedBlackTreeTest.cpp(13): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Map<int,int>"
+     Создается библиотека C:\Users\klesovi\Desktop\RedBlackTree\Debug\RedBlackTreeTest.lib и объект C:\Users\klesovi\Desktop\RedBlackTree\Debug\RedBlackTreeTest.exp
+  RedBlackTreeTest.vcxproj -> C:\Users\klesovi\Desktop\RedBlackTree\Debug\RedBlackTreeTest.dll
